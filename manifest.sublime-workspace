@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ve",
+				"venue_name"
+			],
+			[
+				"to_",
+				"to_int"
+			],
+			[
+				"section",
+				"section_name"
+			],
+			[
+				"relate_to",
+				"relate_to_num"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"seed",
+				"seed_max"
+			],
+			[
+				"url",
+				"url_hash"
+			],
+			[
+				"seed_min",
+				"seed_min_max"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"num",
+				"num_of_tweets"
+			],
+			[
+				"search",
+				"search_string"
+			],
+			[
+				"init",
+				"init_twitter"
+			],
+			[
+				"group",
+				"group_list"
+			],
+			[
+				"query",
+				"query_word"
+			],
+			[
+				"core",
+				"core_word"
+			],
+			[
+				"break",
+				"break_into_groups"
+			],
+			[
+				"sort",
+				"sort_by"
+			],
+			[
+				"top",
+				"top_relation"
+			],
+			[
+				"top_",
+				"top_relation_score"
+			],
+			[
+				"build",
+				"build_relations"
+			],
+			[
+				"delete",
+				"delete_if"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"password_",
+				"password_confirm"
+			],
+			[
+				"data",
+				"data_so_far"
+			],
+			[
+				"plane",
+				"plane_form"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: f",
+				"Snippet: Function"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 470.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johngalt/Dropbox/steem/extension/popup.html",
+		"/Users/johngalt/Dropbox/steem/extension/manifest.json",
+		"/Users/johngalt/Dropbox/steem/extension/popup.js",
+		"/Users/johngalt/Dropbox/Clients/marilynpaul/footer.html",
+		"/var/folders/_z/g8nhmm8s59l7jqdhczhnqnnw0000gn/T/rsub-flsacj/facebook_events_importer.php",
+		"/var/folders/_z/g8nhmm8s59l7jqdhczhnqnnw0000gn/T/rsub-yrtx0l/fb_import_action.php",
+		"/var/folders/_z/g8nhmm8s59l7jqdhczhnqnnw0000gn/T/rsub-nectao/facebook_events_importer.php",
+		"/var/folders/_z/g8nhmm8s59l7jqdhczhnqnnw0000gn/T/rsub-u3kevo/nginx",
+		"/var/folders/_z/g8nhmm8s59l7jqdhczhnqnnw0000gn/T/rsub-qigz2e/facebook_events_importer.php",
+		"/var/folders/_z/g8nhmm8s59l7jqdhczhnqnnw0000gn/T/rsub-h89ymb/nginx.conf",
+		"/Users/johngalt/Desktop/tokyo trip",
+		"/Users/johngalt/Desktop/moosehead",
+		"/Users/johngalt/Desktop/holo",
+		"/Users/johngalt/Desktop/josephstalin",
+		"/Users/johngalt/Desktop/mushroomgod",
+		"/Users/johngalt/Desktop/high",
+		"/Users/johngalt/wdi/meetup/data.js",
+		"/Users/johngalt/wdi/meetup/index.js",
+		"/Volumes/happy @ cpanel/iwantobeher.com/wp-content/plugins/search-regex/searches/post_url.php",
+		"/Volumes/happy @ cpanel/snapwave.net/wp-content/plugins/featured-image-fixer/featured-image-fixer.php",
+		"/Users/johngalt/wdi/tweetd3/app/models/group.rb",
+		"/Users/johngalt/wdi/tweetd3/app/models/logr.rb",
+		"/Users/johngalt/wdi/tweetd3/config/routes.rb",
+		"/Users/johngalt/wdi/tweetd3/lib/Tapi.rb",
+		"/Users/johngalt/wdi/tweetd3/lib/corpus.rb",
+		"/Users/johngalt/wdi/tweetd3/app/models/log.rb",
+		"/Users/johngalt/wdi/exercises/receipts_api/db/migrate/20150630183005_create_api_tokens.rb",
+		"/Users/johngalt/wdi/exercises/receipts_api/Gemfile",
+		"/Users/johngalt/wdi/exercises/receipts_api/config/database.yml",
+		"/Users/johngalt/wdi/tweetd3/app/models/query.rb",
+		"/Users/johngalt/wdi/tweetd3/app/models/tweet.rb",
+		"/Users/johngalt/wdi/exercises/brooklyn/app/views/welcome/index.html.erb",
+		"/Users/johngalt/wdi/exercises/brooklyn/app/assets/stylesheets/style.css",
+		"/Users/johngalt/wdi/exercises/brooklyn/app/assets/stylesheets/application.css",
+		"/Users/johngalt/wdi/exercises/brooklyn/app/controllers/welcome_controller.rb",
+		"/Users/johngalt/wdi/exercises/brooklyn/config/environments/development.rb",
+		"/Users/johngalt/wdi/exercises/brooklyn/config/environment.rb",
+		"/Users/johngalt/wdi/exercises/brooklyn/config/routes.rb",
+		"/Users/johngalt/wdi/exercises/asset_pipeline_poem/config/environments/development.rb",
+		"/Users/johngalt/wdi/exercises/asset_pipeline_poem/app/assets/stylesheets/application.css",
+		"/Users/johngalt/wdi/exercises/asset_pipeline_poem/app/views/layouts/application.html.erb",
+		"/Users/johngalt/wdi/exercises/asset_pipeline_poem/config/secrets.yml",
+		"/Users/johngalt/wdi/exercises/asset_pipeline_poem/app/assets/javascripts/application.js",
+		"/Users/johngalt/wdi/tweetd3/lib/abstract_model.rb",
+		"/Users/johngalt/wdi/tweetd3/app/models/word.rb",
+		"/Users/johngalt/wdi/tweetd3/app/controllers/twitter_controller.rb",
+		"/Users/johngalt/wdi/tweetd3/Gemfile",
+		"/Users/johngalt/wdi/tweetd3/lib/example-tweet.json",
+		"/Users/johngalt/wdi/tweetd3/app/controllers/welcome_controller.rb",
+		"/Users/johngalt/wdi/tweetd3/app/views/welcome/index.html.erb",
+		"/Users/johngalt/wdi/tweetd3/app/views/twitter/_searchform.html.erb",
+		"/Users/johngalt/wdi/tweetd3/app/views/users/index.html.erb",
+		"/Users/johngalt/wdi/tweetd3/app/views/twitter/index.html.erb",
+		"/Users/johngalt/wdi/tweetd3/app/controllers/application_controller.rb",
+		"/Users/johngalt/wdi/tweetd3/config/application.rb",
+		"/Users/johngalt/wdi/tweetd3/app/assets/javascripts/welcome.js",
+		"/Users/johngalt/wdi/tweetd3/app/views/twitter/search.html.erb",
+		"/Users/johngalt/Desktop/test.json",
+		"/Users/johngalt/wdi/tweetd3/lib/stopwords.list",
+		"/Users/johngalt/wdi/tweetd3/lib/rate_limit_exceeded.rb",
+		"/Users/johngalt/wdi/tweetd3/app/helpers/twitter_helper.rb",
+		"/Users/johngalt/wdi/tweetd3/app/controllers/twitter_api_controller.rb",
+		"/Users/johngalt/wdi/tweetd3/app/controllers/api_controller.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150614215737_add_group_reference_to_event.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150614225259_add_events_to_group.rb",
+		"/Users/johngalt/wdi/rubymeet/app/models/group.rb",
+		"/Users/johngalt/wdi/rubymeet/app/models/event.rb",
+		"/Users/johngalt/wdi/rubymeet/app/controllers/events_controller.rb",
+		"/Users/johngalt/wdi/rubymeet/db/seeds.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150612013424_change_column_meetup_id_to_id.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150613220134_fix_group_id.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150614203829_add_group_reference_to_events.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150612010529_add_unique_to_events_id.rb",
+		"/Users/johngalt/wdi/rubymeet/db/structure.sql",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/users/index.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/library_users/index.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/controllers/library_users_controller.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/models/library.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/models/user.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/controllers/users_controller.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/config/routes.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/controllers/libraries_controller.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/libraries/index.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/helpers/sessions_helper.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/libraries/new.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/Gemfile",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/sessions/new.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/controllers/sessions_controller.rb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/users/new.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/views/users/show.html.erb",
+		"/Users/johngalt/wdi/exercises/lib_app/app/controllers/application_controller.rb",
+		"/Users/johngalt/wdi/rubymeet/app/views/users/show.html.erb",
+		"/Users/johngalt/wdi/meetup/console.js",
+		"/Users/johngalt/wdi/alg/june-10-2015/seq.js",
+		"/Users/johngalt/wdi/rubymeet/app/models/user.rb",
+		"/Users/johngalt/wdi/alg/june-10-2015/seq",
+		"/Users/johngalt/wdi/rubymeet/lib/meetup.rb",
+		"/Users/johngalt/wdi/rubymeet/spec/models/user_spec.rb",
+		"/Users/johngalt/wdi/rubymeet/Gemfile",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150610191128_add_password_digest_to_user.rb",
+		"/Users/johngalt/wdi/rubymeet/app/models/post.rb",
+		"/Users/johngalt/wdi/rubymeet/config/database.yml",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150610002800_create_groups.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150610055140_add_venue_to_event.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150610003940_add_fee_to_event.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150609222250_add_userid_to_posts.rb",
+		"/Users/johngalt/wdi/rubymeet/app/meetup.rb",
+		"/Users/johngalt/wdi/rubymeet/lib/Meetup.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150610001618_create_events.rb",
+		"/Users/johngalt/wdi/rubymeet/.env",
+		"/Users/johngalt/wdi/rubymeet/app/views/events/index.html.erb",
+		"/Users/johngalt/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/johngalt/wdi/rubymeet/config/routes.rb",
+		"/Users/johngalt/wdi/rubymeet/db/migrate/20150609185823_add_zipcode_to_user.rb",
+		"/Users/johngalt/wdi/rubymeet/db/schema.rb",
+		"/Users/johngalt/wdi/rubymeet/config/environment.rb",
+		"/Users/johngalt/wdi/exercises/apartment/lab.rb",
+		"/Users/johngalt/wdi/exercises/apartment/lab.sql",
+		"/Users/johngalt/wdi/rubymeet/app/views/events/index.html.erb.html",
+		"/Users/johngalt/wdi/rubymeet/config/application.rb",
+		"/Users/johngalt/wdi/rubymeet/lib/tasks/dotenv.rake",
+		"/Users/johngalt/wdi/exercises/bog_app/app/views/creatures/new.html.erb",
+		"/Users/johngalt/wdi/exercises/bog_app/config/routes.rb",
+		"/Users/johngalt/wdi/exercises/bog_app/db/seeds.rb",
+		"/Users/johngalt/wdi/exercises/bog_app/app/views/creatures/index.html.erb",
+		"/Users/johngalt/wdi/exercises/bog_app/app/controllers/creatures_controller.rb",
+		"/Users/johngalt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/johngalt/wdi/exercises/route_app/app/views/planes/index.html.erb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Volumes/happy @ cpanel/iwantobeher.com/wp-content/plugins/search-regex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getCurrentTabUrl",
+			"\\n",
+			"\\r",
+			"480px",
+			",",
+			"\\n",
+			"\\r",
+			"\\r\\n",
+			"^",
+			"dev\\.",
+			"dev",
+			"fbe_validate_session",
+			"event",
+			"regex_replace",
+			"get_declared_classes",
+			"class Search",
+			"$searches",
+			"get_class",
+			"function get_class",
+			"(201\\d/\\d\\d)",
+			"201\\d/\\d\\d",
+			"className",
+			"d.",
+			"d ",
+			"tooltip",
+			"to_int",
+			"find_word_in_groups",
+			"Group.reset",
+			":words",
+			"tweets",
+			"seed_relationship",
+			"Group.find",
+			"seed_min_max",
+			"HEAD",
+			"pry",
+			"@query_word",
+			"welcome.js",
+			"binding.pry",
+			"^\\r\\n",
+			"\"size\":\\d*\\}\\r\\n",
+			",",
+			"{.*?}",
+			"data_so_far",
+			"users_path",
+			"=\\sp",
+			".filter",
+			"sort",
+			"_.",
+			"data.js",
+			"_",
+			"closeLog",
+			"\\sredirect",
+			"Redirect user to",
+			"$cookieURL",
+			"cookiedrop",
+			"outname",
+			",'refresh'",
+			"redirect\\(\\$\\w+",
+			"redirect\\(\\$\\w",
+			"redirect\\(",
+			"redirect(",
+			"redirect",
+			"\\sredirect",
+			"er"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<br>\\n",
+			"\\n<br>",
+			"<br>",
+			"\\n",
+			",",
+			"",
+			"$1/",
+			"Group.find_by_word",
+			"",
+			"\\r\\n",
+			"data",
+			"= u",
+			".button",
+			"city",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"con",
+				"app/controllers/stores_controller.rb"
+			],
+			[
+				"contr",
+				"app/controllers/stores_controller.rb"
+			],
+			[
+				"migr",
+				"db/migrate/20150630182122_create_stores.rb"
+			],
+			[
+				"mirg",
+				"db/migrate/20150630183005_create_api_tokens.rb"
+			],
+			[
+				"envir",
+				"config/environment.rb"
+			],
+			[
+				"welcome",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"tapi",
+				"lib/Tapi.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"twittercon",
+				"app/controllers/twitter_controller.rb"
+			],
+			[
+				"welcome.",
+				"app/assets/javascripts/welcome.js"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"meet",
+				"rubymeet/lib/meetup.rb"
+			],
+			[
+				".sql",
+				"db/structure.sql"
+			],
+			[
+				"eventscontr",
+				"app/controllers/events_controller.rb"
+			],
+			[
+				"index",
+				"app/views/libraries/index.html.erb"
+			],
+			[
+				"style.css",
+				"rubymeet/app/assets/stylesheets/application.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
