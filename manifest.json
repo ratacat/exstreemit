@@ -22,7 +22,7 @@
 	  {
 	    "matches": ["https://steemit.com/*"],
 	    "css": ["toggle.css"],
-	    "js": ["jquery.js","extreemit.js"],
+	    "js": ["jquery.js","content.js"],
 	    "run_at": "document_end"
 	  }
 	],
