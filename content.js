@@ -3,7 +3,7 @@ MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
 var observer = new MutationObserver(function(mutations, observer) {
     // fired when a mutation occurs
     console.log(mutations, observer);
-    $('article:contains("Resteemed")').parent().hide();
+    $("div.PostSummary__reblogged_by").parent().parent().hide();
     // ...
 });
 
@@ -23,11 +23,11 @@ function checkState(){
 	chrome.runtime.sendMessage({greeting: "checkstate"}, function(response) {
   		if (response.check == "show") {
   			observer.disconnect();
-  			$('article:contains("Resteemed")').parent().show();
+  			$("div.PostSummary__reblogged_by").parent().parent().show();
 			li.innerText="hide resteems";
 			li.onclick= toggleState;
 		} else if (response.check == "hide") {
-			$('article:contains("Resteemed")').parent().hide();
+			$("div.PostSummary__reblogged_by").parent().parent().hide();
 			// watch for any incoming ajax loaded posts to hide resteemed
 			observer.observe(target, {
 			  subtree: true,
